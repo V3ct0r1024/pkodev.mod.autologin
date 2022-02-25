@@ -1,4 +1,4 @@
-[![PKOdev.NET](https://pkodev.net/uploads/monthly_2022_02/logo-background.png.d7a190633d23e60fbfdfb9340726ba82.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
+[![PKOdev.NET](https://a.radikal.ru/a07/2202/b6/64077957c2ec.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
 ## TOP/PKO/KOP mod: pkodev.mod.autologin
 Allows to specify additional parameters in the game client startup parameters for automatic connection to the server and the character's entry into the game. Modification for **[PKOdev.NET mod loader](https://pkodev.net/topic/5757-mod-loading-system-for-server-and-client-pkodevnet-mod-loader/)**.
 
